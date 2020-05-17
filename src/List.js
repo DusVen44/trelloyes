@@ -5,7 +5,6 @@ import Card from './Card.js'
 // store.props.lists needs id, header, cardIds
 
 export default function List(props) {
-    console.log(props)
     return (
         <div>
             <section className="List">
