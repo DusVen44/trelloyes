@@ -37,7 +37,3 @@ export default {
     'm': { id: 'm', title: 'Thirteenth card', content: 'lorem ipsum' },
   },
 }
-
-  // store.props.lists needs id, header, cardIds
-
-  // store.props.allCards needs id, title, content
